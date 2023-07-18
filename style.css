@@ -1,0 +1,62 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Chela+One&family=Mynerve&display=swap');
+body{
+font-family: 'Mynerve', cursive;
+background: linear-gradient(180deg, purple 0%, hotpink);
+background-repeat: no-repeat;
+height: 200vh;
+color: white;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+ h1
+ {
+    font-size: 170px;
+    margin-top: 5%;
+ }
+
+ #button
+ {
+    width: 170px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    font-size: 38px;
+    text-align: center;
+ }
+
+ #button:hover
+ {
+    cursor: pointer;
+ }
+
+ #jokeContent,#joke
+ {
+    font-size: 32px;
+    line-height: 20px;
+ }
+
+ #img
+ {
+    margin-top: 200px;
+    width: 100px;
+    height: 100px;
+ }
+
+ h2{
+    font-size: 44px;
+    line-height: 34px;
+ }
+
+ #joke
+ {
+    font-size: 40px;
+  
+ }
+
+ #jokeContent
+ {
+    font-size: 70px;
+    
+ }
